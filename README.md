@@ -42,7 +42,7 @@
     <img src = "https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt = "tor"/>
     <img src = "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt = "opera"/>
 
-  ![Thiago Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSmilee&show_icons=true&theme=dracula)
+  
   </br></br>
   
 <div align="right">
