@@ -6,9 +6,9 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- ⭐ Actualmente aprendiendo y trabajando en **desarrollo web**
+- 💀 Trabajo mucho en mi **proyecto de LX Leaks**
+- 👾 Tengo **15 años** e intento aprender lo maximo posible para mis proyectos
   
 <h2> / current skills / </h2>
 
@@ -29,11 +29,17 @@
   </br></br>
   
 <div align="right">
-<a href="https://lxshopofficial.netlify.app/">Developed by ! $mile,,#2023</a>
+<a href="https://thesmilee.netlify.app/">Developed by ! $mile,,#2023</a>
   </div>
   </div>
 
 ------
 Credit: [TheSmilee](https://github.com/TheSmilee)
+
+LX Website: [LX Leaks](https://lxshopofficial.netlify.app/)
+
+Smile Website: [Smile Portfolio](https://thesmilee.netlify.app)
+
+Discord : [LX Leaks](https://discord.gg/lxleaks)
 
 Last Edited on: 22/06/2024
