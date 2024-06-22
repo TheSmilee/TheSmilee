@@ -36,7 +36,8 @@
   </div>
   </div>
 
-------
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+
 Credit: [TheSmilee](https://github.com/TheSmilee)
 
 LX Website: [LX Leaks](https://lxshopofficial.netlify.app/)
