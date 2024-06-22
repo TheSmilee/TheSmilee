@@ -4,7 +4,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1156355718992101388/1253879070115106887/LXXXX.png?ex=66777562&is=667623e2&hm=3779dcbc7a2900ef036743aab7e470cdbd3f8eb0d8fbecbeac012f280c566647&"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hey!+It's+TheSmilee!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hola!+Soy+! $mile,,#2023!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px"></img> About Me
   
