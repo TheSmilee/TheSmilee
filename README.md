@@ -42,10 +42,8 @@
     <img src = "https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt = "tor"/>
     <img src = "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt = "opera"/>
 
-  
   </br></br>
 
-  
 <div align="right">
 <a href="https://thesmilee.netlify.app/">Developed by ! $mile,,#2023</a>
   </div>
