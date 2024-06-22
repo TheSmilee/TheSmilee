@@ -13,6 +13,9 @@
   <a href="https://discord.gg/lxleaks">
   <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt = "js" />
   </a>
+    <a href="https://lxshopofficial.netlify.app/">
+  <img src = "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt = "sponsor" />
+  </a>
 <h2> / current skills / </h2>
 
   
@@ -23,6 +26,8 @@
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
     <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "nodejs" />
       <img src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt = "netlify" />
+<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "visualstudiocode" />   
+<img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt = "visual" />
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
@@ -30,6 +35,12 @@
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop"/>
+    <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt = "canva"/>
+
+    - <h4> Use Browsers </h4>
+  <img src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt = "chrome"/>
+    <img src = "https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt = "tor"/>
+    <img src = "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt = "opera"/>
   
   </br></br>
   
@@ -51,6 +62,18 @@
   </a>
     <a href="https://www.twitch.tv/thesmilee_23">
   <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt = "twitch" />
+  </a>
+      <a href="https://steamcommunity.com/id/elfuckingsmile/">
+  <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt = "steam" />
+  </a>
+      <a href="https://paypal.me/smilegenesis">
+  <img src = "https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt = "paypal" />
+  </a>
+      <a href="https://open.spotify.com/user/1l4lsdt73obtor7p47f22axq8">
+  <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt = "spotify" />
+  </a>
+    <a href="https://replit.com/@marioprox08">
+  <img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt = "replit" />
   </a>
 
 <div align="center">
