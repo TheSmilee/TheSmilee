@@ -71,6 +71,13 @@
     <a href="https://replit.com/@marioprox08">
   <img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt = "replit" />
   </a>
+  <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<p align="right">
+<!--RECENT_ACTIVITY:last_update-->
+<i>Last refresh</i>: <b>Sabado, Junio 22, 2024, 2:54:17 PM</b>
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
@@ -79,10 +86,4 @@
 
 <img align="right" width="100" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1156355718992101388/1254041937300688998/image5345345-removebg-preview.png?ex=66780d10&is=6676bb90&hm=785ec03091edc1cc185e78b95f9958ecea09da13c8789cca24c0559a8306a438&"/>
 
-<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<p align="right">
-<!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Sabado, Junio 22, 2024, 2:54:17 PM</b>
-<!--RECENT_ACTIVITY:last_update_end-->
+
