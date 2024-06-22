@@ -6,12 +6,10 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px"></img> About Me
 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hola!+Soy+!+$mile,,!;Soy+Programador+de+Bots;Soy+CEO+de+LX+Leaks;Sigo+haciendo+proyectos;Contribuciones+en+Discord;Entra+a+LX+LEAKS)](https://git.io/typing-svg)
-    
 - ⭐ Actualmente aprendiendo y trabajando en **desarrollo web**
 - 💀 Trabajo mucho en mi **proyecto de LX Leaks**
 - 👾 Tengo **15 años** e intento aprender lo maximo posible para mis proyectos
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hola!+Soy+!+$mile,,!;Soy+Programador+de+Bots;Soy+CEO+de+LX+Leaks;Sigo+haciendo+proyectos;Contribuciones+en+Discord;Entra+a+LX+LEAKS)](https://git.io/typing-svg)
   <a href="https://discord.gg/lxleaks">
   <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt = "js" />
   </a>
