@@ -1,4 +1,4 @@
-<p align = center ><img src="https://media.discordapp.net/attachments/1156355718992101388/1254040034609332278/677694034b1b306529f5d27c4c99a125aa_1.png?ex=66780b4b&is=6676b9cb&hm=7d33c54e3476d08b1e21d4178e77f584ff4b7f4caeeefa6764571aba338d0477&=&format=webp&quality=lossless&width=629&height=359"> </p>
+<p align = center ><img src="https://cdn.discordapp.com/attachments/1156355718992101388/1254040378135416866/1718654348929aa.png?ex=66780b9d&is=6676ba1d&hm=cb458a0ff9d9a1cdc1feeb5ccfdf1ff8c50bb7c6ba75e214c628ef2c309aa743&"> </p>
 
 <div>
 
