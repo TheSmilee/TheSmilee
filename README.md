@@ -44,4 +44,4 @@ Discord : [LX Leaks](https://discord.gg/lxleaks)
 
 Last Edited on: 22/06/2024
 
-<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1156355718992101388/1253879070115106887/LXXXX.png?ex=66777562&is=667623e2&hm=3779dcbc7a2900ef036743aab7e470cdbd3f8eb0d8fbecbeac012f280c566647&"/>
+<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1156355718992101388/1254041937300688998/image5345345-removebg-preview.png?ex=66780d10&is=6676bb90&hm=785ec03091edc1cc185e78b95f9958ecea09da13c8789cca24c0559a8306a438&"/>
