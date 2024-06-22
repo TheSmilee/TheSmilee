@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="[https://i.imgur.com/x6qU1kR.png](https://cdn.discordapp.com/attachments/1156355718992101388/1253879070115106887/LXXXX.png?ex=66777562&is=667623e2&hm=3779dcbc7a2900ef036743aab7e470cdbd3f8eb0d8fbecbeac012f280c566647&)"> </p>
 
 <div>
 
