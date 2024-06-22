@@ -9,7 +9,7 @@
 - ⭐ Actualmente aprendiendo y trabajando en **desarrollo web**
 - 💀 Trabajo mucho en mi **proyecto de LX Leaks**
 - 👾 Tengo **15 años** e intento aprender lo maximo posible para mis proyectos
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hola!+Soy+!+$mile,,!;Soy+Programador+de+Bots;Soy+CEO+de+LX+Leaks;Sigo+haciendo+proyectos;Contribuciones+en+Discord;Entra+a+LX+LEAKS)](https://git.io/typing-svg)
+
   <a href="https://discord.gg/lxleaks">
   <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt = "js" />
   </a>
@@ -17,6 +17,8 @@
   <img src = "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt = "sponsor" />
   </a>
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hola!+Soy+!+$mile,,!;Soy+Programador+de+Bots;Soy+CEO+de+LX+Leaks;Sigo+haciendo+proyectos;Contribuciones+en+Discord;Entra+a+LX+LEAKS)](https://git.io/typing-svg)
+  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"></img> Current Skills
 
   
@@ -75,7 +77,7 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Sabado, Junio 22, 2024, 2:56:12 PM</b>
+<i>Last refresh</i>: <b>Sabado, Junio 22, 2024, 3:10:43 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center">
