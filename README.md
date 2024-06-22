@@ -16,7 +16,7 @@
     <a href="https://lxshopofficial.netlify.app/">
   <img src = "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt = "sponsor" />
   </a>
-<h2> / current skills / </h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"></img> Current Skills
 
   
 - <h4> Skills / Languages </h4>
