@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://media.discordapp.net/attachments/1156355718992101388/1254040034257014928/677694034b1b306529f5d27c4c99a125aa_2.png?ex=66780b4b&is=6676b9cb&hm=939f014beafd4c0570fcb8df2a9c7883245bc6997fd9aba7c2313ea08b0890c8&=&format=webp&quality=lossless&width=284&height=497"/>
+<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1156355718992101388/1253879070115106887/LXXXX.png?ex=66777562&is=667623e2&hm=3779dcbc7a2900ef036743aab7e470cdbd3f8eb0d8fbecbeac012f280c566647&"/>
 
 <h2> / about me /</h2>
   
