@@ -5,7 +5,9 @@
 <img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1156355718992101388/1253879070115106887/LXXXX.png?ex=66777562&is=667623e2&hm=3779dcbc7a2900ef036743aab7e470cdbd3f8eb0d8fbecbeac012f280c566647&"/>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px"></img> About Me
-  
+
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hola!+Soy+!+$mile,,!;Soy+Programador+de+Bots;Soy+CEO+de+LX+Leaks;Sigo+haciendo+proyectos;Contribuciones+en+Discord;Entra+a+LX+LEAKS)](https://git.io/typing-svg)
+    
 - ⭐ Actualmente aprendiendo y trabajando en **desarrollo web**
 - 💀 Trabajo mucho en mi **proyecto de LX Leaks**
 - 👾 Tengo **15 años** e intento aprender lo maximo posible para mis proyectos
@@ -17,7 +19,6 @@
   <img src = "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt = "sponsor" />
   </a>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000ff&size=30&lines=Hola!+Soy+!+$mile,,!;Soy+Programador+de+Bots;Soy+CEO+de+LX+Leaks;Sigo+haciendo+proyectos;Contribuciones+en+Discord;Entra+a+LX+LEAKS)](https://git.io/typing-svg)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"></img> Current Skills
 
   
