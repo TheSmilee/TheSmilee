@@ -10,7 +10,7 @@
 - 💀 Trabajo mucho en mi **proyecto de LX Leaks**
 - 👾 Tengo **15 años** e intento aprender lo maximo posible para mis proyectos
 
-  <a href="https://thesmilee.netlify.app/">
+  <a href="https://discord.gg/lxleaks">
   <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt = "js" />
   </a>
 <h2> / current skills / </h2>
