@@ -44,11 +44,6 @@
 
   </br></br>
 
-<div align="right">
-<a href="https://thesmilee.netlify.app/">Developed by ! $mile,,#2023</a>
-  </div>
-  </div>
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
   <a href="https://github.com/TheSmilee">
   <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt = "github" />
