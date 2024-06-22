@@ -9,7 +9,8 @@
 - ⭐ Actualmente aprendiendo y trabajando en **desarrollo web**
 - 💀 Trabajo mucho en mi **proyecto de LX Leaks**
 - 👾 Tengo **15 años** e intento aprender lo maximo posible para mis proyectos
-  
+
+  <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt = "js" />
 <h2> / current skills / </h2>
 
   
