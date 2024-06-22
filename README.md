@@ -34,7 +34,7 @@
     <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
   
 - <h4> designing tools </h4>
-  <img src = "https://aleen42.github.io/badges/src/photoshop.svg" alt = "photoshop"/>
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop"/>
     <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt = "canva"/>
 
     - <h4> Use Browsers </h4>
