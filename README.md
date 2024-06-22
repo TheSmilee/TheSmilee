@@ -38,6 +38,11 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2021 Tien Huynh tienhuynh-tn
+</div>
+
 Credit: [TheSmilee](https://github.com/TheSmilee)
 
 LX Website: [LX Leaks](https://lxshopofficial.netlify.app/)
