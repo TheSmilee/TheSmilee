@@ -4,7 +4,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1156355718992101388/1253879070115106887/LXXXX.png?ex=66777562&is=667623e2&hm=3779dcbc7a2900ef036743aab7e470cdbd3f8eb0d8fbecbeac012f280c566647&"/>
 
-<h2> / about me /</h2>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
   
 - ⭐ Actualmente aprendiendo y trabajando en **desarrollo web**
 - 💀 Trabajo mucho en mi **proyecto de LX Leaks**
@@ -76,7 +76,6 @@
   <img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt = "replit" />
   </a>
 
-https://github-readme-stats.vercel.app/api?username={TheSmilee}&theme=blue-green
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2024 TheSmilee
